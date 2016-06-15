@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['my-dream-app.component.css']
 })
 export class MyDreamAppAppComponent {
-  title = 'Angular2, with Angular CLI';
+  title = 'Justin Graber likes Typescript.';
 }
