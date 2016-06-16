@@ -1,2 +1,2 @@
 export {environment} from './environment';
-export {MyDreamAppAppComponent} from './my-dream-app.component';
+export {MyDreamAppAppComponent} from './components/my-dream-app.component';
